@@ -32,7 +32,7 @@ I am a **Software Development Engineer in Test (SDET) with 4+ years of experienc
 - Automated ~10–15 API test cases overing CRUD operations with robust validation.
 - Increased endpoint **coverage by 45–50%** and strengthened defect detection in service responses.
 - Enhanced **API reliability by 35–40%**, showcasing backend validation expertise and reusable framework design. 
-[🔗 View Project](https://github.com/Padmini0707/ContactList-RestAuuredAPIAutomation)
+[🔗View Project](https://github.com/Padmini0707/ContactList-RestAuuredAPIAutomation).
 
 ---
 
