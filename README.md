@@ -1,4 +1,4 @@
-# 👩‍💻 YOUR NAME - SDET Portfolio
+# 👩‍💻 PADMINI MS - SDET Portfolio
 
 I am a **Software Development Engineer in Test (SDET) with 4+ years of experience** in product‑based environments, specializing in architecting scalable automation frameworks that accelerate Agile releases and ensure production‑grade reliability. My expertise spans Java, Selenium, Playwright, and Rest Assured, where I’ve streamlined regression cycles, stabilized test suites, and integrated seamlessly with CI/CD pipelines.I enjoy tackling complex challenges with clean, scalable designs while collaborating across teams to strengthen quality strategy and delivery.
 
