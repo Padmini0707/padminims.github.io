@@ -42,7 +42,7 @@ I am a **Software Development Engineer in Test (SDET) with 4+ years of experienc
 - Automated ~25 regression test cases, reducing manual effort and improving consistency.
 - Achieved stable CI‑driven runs with fewer flaky failures, demonstrating framework reliability.
 - Improved forecast accuracy by 15% using seasonal tuning  
-[🔗 View Project](https://github.com/priyamehta/retail-sales-forecasting)
+[🔗View Project](https://github.com/Padmini0707/BlazeDemo-AutomationFrameqor).
 
 ---
 ## 🏅 Certifications
