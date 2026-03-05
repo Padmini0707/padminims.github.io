@@ -1,38 +1,8 @@
-# Padmini M S | SDET II | QA Automation Engineer | Bangalore, India | 4+ Years Experience
+# 👩‍💻 YOUR NAME - SDET Portfolio
+
+I am a **Software Development Engineer in Test (SDET) with 4+ years of experience** in product‑based environments, specializing in architecting scalable automation frameworks that accelerate Agile releases and ensure production‑grade reliability. My expertise spans Java, Selenium, Playwright, and Rest Assured, where I’ve streamlined regression cycles, stabilized test suites, and integrated seamlessly with CI/CD pipelines.I enjoy tackling complex challenges with clean, scalable designs while collaborating across teams to strengthen quality strategy and delivery.
 
 ---
-
-## About Me
-
-I am a Software Development Engineer in Test (SDET) with 4+ years of experience in product‑based environments, specializing in architecting scalable automation frameworks that accelerate Agile releases and ensure production‑grade reliability. My expertise spans Java, Selenium, Playwright, and Rest Assured, where I’ve streamlined regression cycles, stabilized test suites, and integrated seamlessly with CI/CD pipelines.I enjoy tackling complex challenges with clean, scalable designs while collaborating across teams to strengthen quality strategy and delivery.
-
----
-
-## Skills
-
-**Programming & Automation:** 
- - Java
- - Selenium WebDriver
- - Playwright
- - Maven 
-**API & Tools:**
- - Rest Assured
- - Postman
- - JSON
- - HTTP Requests (GET, POST, PUT, DELETE)  
-**DevOps & CI/CD:**
- - Git
- - GitHub
- - Jenkins
- - Azure DevOps
-**Database & Frameworks:** 
- - SQL
- - Database Validation
- - Page Object Model (POM)
- - TestNG
- - Reusable Frameworks
----
-
 ## Key Achievements
 
 - Architected and scaled automation frameworks (Java, Selenium, Rest Assured, Playwright) that improved maintainability and long‑term scalability across UI and API testing.  
@@ -43,53 +13,48 @@ I am a Software Development Engineer in Test (SDET) with 4+ years of experience 
 - Transitioned manual testing to automation, building 30+ regression suites with Page Object Model (POM) and expanding test coverage significantly.
 
 ---
+## 🧠 Skills & Technologies
 
-## Projects
-
-**Contact List Application – API Automation Framework**  
-- Goal: Develop a robust API automation framework to validate CRUD operations for RESTful services.
-- Tech Stack: Java, Rest Assured, TestNG.
-- Impact:
--   Automated ~10-15 API test cases with robust validation, strengthening coverage for core endpoints.
--   Improved defect detection in service responses, showcasing backend validation expertise.
-
-**Flight Booking Application (Blaze Demo) – UI Automation Framework**  
-- Goal: Build a scalable UI automation framework to validate booking workflows and ensure regression stability. 
-- Tech Stack: Java, Selenium WebDriver, TestNG, Page Object Model (POM).
-- Impact:
--   Automated ~25 regression test cases, reducing manual effort and improving consistency.
--   Achieved stable CI‑driven runs with fewer flaky failures, demonstrating framework     reliability.
-
+- **Programming Langauage**: Java,
+- **UI Automation & Tools**: Selenium WebDriver, Playwright, Maven
+- **API Automation & Tools**: Rest Assured, Postman, JSON, HTTP Requests (GET, POST, PUT, DELETE)
+- **Databases**: MySQL, Database Validation
+- **DevOps & CI/CD**: Git, GitHub, Jenkins, Azure DevOps
+- **Automation Fameworks**: Page Object Model (POM), TestNG, Reusable Frameworks.
 
 ---
 
-## Education
-- degree: "Bachelor of Engineering (BE)"
-  field: "Computer Science & Engineering"
-  institution: "Visvesvaraya Technological University"
-  location: "Bangalore, India"
-  graduation_year: "2020"
-  gpa: "7.5"
-  description: "Built a strong foundation in software engineering, algorithms, and system design, preparing for a career in test automation and quality engineering."
+## 📁 Projects
 
----
----
-
-## Certification
-
-**certifications:**
-  - name: "Certified Tester Foundation Level (CTFL)"
-    authority: "ISTQB"
-    date: "Nov 2022".
-
-  - name: "Automation Tester (Playwright)"
-    authority: "Star Agile".
+### 1. 📊 Contact List Application – API Automation Framework
+**Goal**: Develop a robust API automation framework to validate CRUD operations for RESTful services.  
+**Tech Stack**: Java, Rest Assured, TestNG,Git,GitHub,Jenkins  
+- Automated ~10–15 API test cases overing CRUD operations with robust validation.
+- Increased endpoint **coverage by 45–50%** and strengthened defect detection in service responses.
+- Enhanced **API reliability by 35–40%**, showcasing backend validation expertise and reusable framework design. 
+[🔗 View Project](https://github.com/Padmini0707/ContactList-RestAuuredAPIAutomation)
 
 ---
 
-## Contact
+### 2. 🧾 Flight Booking Application (Blaze Demo) – UI Automation Framework
+**Goal**: Forecast future sales using time series data from a chain of stores.  
+**Tech Stack**: Python, ARIMA, Facebook Prophet  
+- Automated ~25 regression test cases, reducing manual effort and improving consistency.
+- Achieved stable CI‑driven runs with fewer flaky failures, demonstrating framework reliability.
+- Improved forecast accuracy by 15% using seasonal tuning  
+[🔗 View Project](https://github.com/priyamehta/retail-sales-forecasting)
 
-**Email:** pmspuranik07@gmail.com 
-**LinkedIn:** [https://www.linkedin.com/in/padmini-m-s-92359a1b0/](#)  
+---
+## 🏅 Certifications
+
+- ISTQB Certified Tester Foundation Level (CTFL)
+- Certified Automation Tester.
+
+---
+
+## 📬 Let's Connect!
+
+- 📧 Email: pmspuranik07@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/padmini-m-s-92359a1b0/)
 
 ---
