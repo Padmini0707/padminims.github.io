@@ -4,53 +4,92 @@
 
 ## About Me
 
-I am a passionate Software Development Engineer in Test (SDET) with expertise in UI and API automation, building scalable testing frameworks, and delivering high-quality software in Agile environments.
-
-- Specialization: Automation Testing, API Testing, CI/CD, Agile/Scrum
-- Experienced in building robust automation frameworks and improving test coverage
-- Skilled in collaborating with cross-functional teams for high-quality software delivery
+I am a Software Development Engineer in Test (SDET) with 4+ years of experience in product‑based environments, specializing in architecting scalable automation frameworks that accelerate Agile releases and ensure production‑grade reliability. My expertise spans Java, Selenium, Playwright, and Rest Assured, where I’ve streamlined regression cycles, stabilized test suites, and integrated seamlessly with CI/CD pipelines.I enjoy tackling complex challenges with clean, scalable designs while collaborating across teams to strengthen quality strategy and delivery.
 
 ---
 
 ## Skills
 
-**Programming & Automation:** Java | Selenium WebDriver | Playwright | TestNG | Maven  
-**API & Tools:** Rest Assured | Postman | JSON | HTTP Requests (GET, POST, PUT, DELETE)  
-**DevOps & CI/CD:** Git | GitHub | Jenkins | Azure DevOps  
-**Database & Frameworks:** SQL | Database Validation | Page Object Model (POM) | Reusable Frameworks
-
+**Programming & Automation:** 
+ - Java
+ - Selenium WebDriver
+ - Playwright
+ - Maven 
+**API & Tools:**
+ - Rest Assured
+ - Postman
+ - JSON
+ - HTTP Requests (GET, POST, PUT, DELETE)  
+**DevOps & CI/CD:**
+ - Git
+ - GitHub
+ - Jenkins
+ - Azure DevOps
+**Database & Frameworks:** 
+ - SQL
+ - Database Validation
+ - Page Object Model (POM)
+ - TestNG
+ - Reusable Frameworks
 ---
 
 ## Key Achievements
 
-- Automated 300+ end-to-end UI and API test cases covering critical business workflows, authentication, and negative scenarios  
-- Designed and implemented a robust API automation framework with reusable request/response specifications  
-- Integrated automation suites with Jenkins for continuous integration and scheduled execution  
-- Migrated legacy Selenium scripts to Playwright, improving test stability and execution speed  
-- Strengthened regression coverage and reduced flakiness to improve product quality
+- Architected and scaled automation frameworks (Java, Selenium, Rest Assured, Playwright) that improved maintainability and long‑term scalability across UI and API testing.  
+- Automated 300+ critical test cases, strengthening product quality and expanding coverage across business workflows, authentication, and negative scenarios.  
+- Reduced manual regression effort by 65% and cut flaky test failures by 40% through parallel execution, Maven optimization, and framework stabilization.  
+- Integrated automation with CI/CD pipelines (Jenkins), enabling faster feedback loops, early defect detection, and reliable Agile releases.  
+- Led root cause analysis and cross‑functional collaboration, accelerating defect resolution and improving release confidence.
+- Transitioned manual testing to automation, building 30+ regression suites with Page Object Model (POM) and expanding test coverage significantly.
 
 ---
 
 ## Projects
 
-**API Automation Framework**  
-- Validated CRUD operations with detailed request/response verification  
-- Integrated with CI/CD pipelines using Jenkins
+**Contact List Application – API Automation Framework**  
+- Goal: Develop a robust API automation framework to validate CRUD operations for RESTful services.
+- Tech Stack: Java, Rest Assured, TestNG.
+- Impact:
+-   Automated ~10-15 API test cases with robust validation, strengthening coverage for core endpoints.
+-   Improved defect detection in service responses, showcasing backend validation expertise.
 
-**UI Automation Framework**  
-- Automated cross-browser web applications using Selenium and Playwright  
-- Implemented Page Object Model (POM) for maintainability
+**Flight Booking Application (Blaze Demo) – UI Automation Framework**  
+- Goal: Build a scalable UI automation framework to validate booking workflows and ensure regression stability. 
+- Tech Stack: Java, Selenium WebDriver, TestNG, Page Object Model (POM).
+- Impact:
+-   Automated ~25 regression test cases, reducing manual effort and improving consistency.
+-   Achieved stable CI‑driven runs with fewer flaky failures, demonstrating framework     reliability.
 
-**Test Suite Integration**  
-- Set up pipelines to run UI and API tests on each commit  
-- Generated reports and notifications for faster defect resolution
+
+---
+
+## Education
+- degree: "Bachelor of Engineering (BE)"
+  field: "Computer Science & Engineering"
+  institution: "Visvesvaraya Technological University"
+  location: "Bangalore, India"
+  graduation_year: "2020"
+  gpa: "7.5"
+  description: "Built a strong foundation in software engineering, algorithms, and system design, preparing for a career in test automation and quality engineering."
+
+---
+---
+
+## Certification
+
+**certifications:**
+  - name: "Certified Tester Foundation Level (CTFL)"
+    authority: "ISTQB"
+    date: "Nov 2022".
+
+  - name: "Automation Tester (Playwright)"
+    authority: "Star Agile".
 
 ---
 
 ## Contact
 
-**Email:** your.email@example.com  
-**LinkedIn:** [linkedin.com/in/padminims](#)  
-**Phone:** +91-XXXXXXXXXX  
+**Email:** pmspuranik07@gmail.com 
+**LinkedIn:** [https://www.linkedin.com/in/padmini-m-s-92359a1b0/](#)  
 
 ---
